@@ -1,0 +1,170 @@
+.title{
+  margin-left: 10px;
+}
+
+.titlemessage{
+  margin-left: 10px;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.form{
+  background-color: #f6f6e9;
+  border: #f6f6e9;
+  color: black;
+  box-shadow: 0 0 8px rgb(160, 160, 160);
+  border-radius: 5px;
+  padding: 20px;
+  margin: 5px 10px 0px ;
+}
+
+button{
+  background-color: #fd5f00;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 4px;
+  font-size: 16px;
+  width: 170px;
+}
+
+.input-button{
+  margin-top: 20px;
+  background-color: #fd5f00;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 4px;
+  font-size: 16px;
+  width: 170px;
+}
+
+.bottom-button{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.result-box{
+  padding: 5px;
+  margin: 5px 10px 0px ;
+}
+
+.box1{
+margin-bottom: 30px;
+}
+
+.vote_all{
+  display: flex;
+  margin: 20px 0 20px 20px;
+}
+
+.vote_title{
+  font-weight: bold;
+}
+
+.win_vote{
+  margin-right: 15px;
+}
+.draw_vote{
+  margin-left: 15px;
+}
+
+.result-box-title{
+margin: 5px 0 10px 10px;
+}
+
+.comment{
+  width: 33%;
+  padding-bottom: 20px;
+  border: solid 1px #f6f6e9;
+  border-radius: 20px;
+  box-shadow: 0 0 4px rgb(160, 160, 160);
+  min-height: 200px;
+}
+
+.vote_title{
+  text-align: center;
+  margin: 15px 0 ;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  background: #005792;
+}
+
+.allcharts{
+  display: flex;
+  margin: 20px;
+}
+
+.chart_wrapper{
+  width:33%;
+  text-align: center;
+  padding-bottom: 20px;
+  border: solid 1px #f6f6e9;
+  border-radius: 20px;
+  box-shadow: 0 0 4px rgb(160, 160, 160);
+}
+
+.win_lose_rate{
+  margin-right: 15px;
+}
+
+.getScore_rate{
+  margin-right: 15px;
+}
+
+.figures{
+  margin: 0 auto;
+}
+
+.mychart1{
+ margin-top:38px;
+}
+
+.chart-title{
+  margin: 15px 0 ;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+form{
+  margin-bottom: 0px;
+}
+
+.pred_seni{
+  color: #fff;
+}
+
+.last-button{
+  display:flex
+}
+.vote-jamp{
+  margin: 0 10px;
+}
+
+.vote-content{
+  padding: 0 10px 0 30px;
+}
+
+.jumbotron{
+  background-color: #f6f6e9;
+  border: #f6f6e9;
+  box-shadow: 0 0 8px rgb(160, 160, 160);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 10px 0px ;
+}
+
+.detail{
+  color: black;
+}
+
+#vote_none{
+  margin-left: 20px;
+  font-size: 18px;
+}
