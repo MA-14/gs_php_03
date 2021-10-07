@@ -134,7 +134,7 @@ $pdo = db_conn();
 </div>
 
   <div class="bottom-button">
-    <button class = "vote-jamp" onclick="location.href='index1.php'">投稿画面に戻る</button>
+    <button class = "vote-jamp" onclick="location.href='index.php'">投稿画面に戻る</button>
     <button class = "select-jamp" onclick="location.href='select.php'">編集</button>
   </div>
 
