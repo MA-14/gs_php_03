@@ -41,7 +41,7 @@ if ($status == false) {
       <form  method="post" action="reset.php">
         <button type="submit" name="reset">全ての投稿を削除</button>
       </form>
-      <button class = "vote-jamp" onclick="location.href='index1.php'">投稿画面に戻る</button>
+      <button class = "vote-jamp" onclick="location.href='index.php'">投稿画面に戻る</button>
       <button class = "vote-jamp" onclick="location.href='result.php'">投票結果に戻る</button>
     </div>
 
